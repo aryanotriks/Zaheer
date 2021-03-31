@@ -185,7 +185,7 @@ def login():
         time.sleep(0.05)
         print "\033[1;91m>>>\033[1;91m[3]\033[1;93m Download Access Token"
 	time.sleep(0.05)
-	print "\033[1;91m>>>\033[1;91m[4]\033[1;94m Follow Zaheer Abbas On Facebook For More Commands And Help" 
+	print "\033[1;91m>>>\033[1;91m[4]\033[1;94m Follow Zaheer Abbas On Facebook" 
 	time.sleep(0.05)
 	print "\033[1;91m>>>\033[1;91m[0]\033[1;96m Logout        "
 	jalan("\033[1;96m⊱⋕⊰══════════════════════════════════════⊱⋕⊰") 
@@ -204,7 +204,7 @@ def pilih_login():
 	        os.system('xdg-open https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook')
 	        login()
 	elif peak =="4":
-		os.system('xdg-open https://youtu.be/gp0SO-pKcc4')
+		os.system('xdg-open https://www.facebook.com/profile.php?id=100058983666837')
 		login()
 	elif unikers =="5":
 		os.system('xdg-open https://www.facebook.com/profile.php?id=100058983666837')
