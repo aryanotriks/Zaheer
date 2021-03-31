@@ -79,21 +79,7 @@ logo = """
  \033[1;95m║\033[1;92mWHATSAP ║ \033[1;96m♤͜͡♤ 03424854459
  \033[1;95m║\033[1;92mHELPING ║ \033[1;96m♤͜͡♤ ANY HELP CONTACT ME ON WHATSAPP 
  \033[1;95m╚═════\033[1;91m⸎══════════════\033[1;91m⸎══════════\033[1;91m⸎════════╝
- logo2 = """
-\033[1;96m   .    _  .     _____________
-\033[1;96m   |\_|/__/|    /WELCOME TO   \
-\033[1;96m  / / \/ \  \  / XAHEER WORLD  \
-\033[1;96m /__|O||O|__ \ \ +923424854459 /
-\033[1;96m|/_ \_/\_/ _\ | \  ___________/
-\033[1;96m| | (____) | ||  |/
-\033[1;96m\/\___/\__/  // _/
-\033[1;96m(_/         ||
-\033[1;96m |          ||\
-\033[1;96m  \        //_/ 
-\033[1;96m   \______//
-\033[1;96m  __|| __||
-\033[1;96m (____(____)
- \033[1;94m⊱══════════════════⊱═⊰DISCLAIMER⊱═⊰══════════════════⊰
+  \033[1;94m⊱══════════════════⊱═⊰DISCLAIMER⊱═⊰══════════════════⊰
  \033[1;91mWARNING :\033[1;93mUSE A FRESH ACCOUNT IF YOU LOGIN WITH FACEBOOK, USE OLD ACCOUDNT IF YOU LOGIN WITH TOKEN.
  \033[1;91mWIFI OR MOBILE DATA :\033[1;93mONLY MOBILE DATA USE FOR CLONING , WIFI USER CONNECT ANY PROXY.
  \033[1;91mID NOT FOUND PROBLEM :\033[1;93mCOPY TO PROFILE PHOTO USERNAME AND THEN PASTE IN TERMUX.
