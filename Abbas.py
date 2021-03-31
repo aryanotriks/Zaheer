@@ -207,7 +207,7 @@ def pilih_login():
 		os.system('xdg-open https://youtu.be/gp0SO-pKcc4')
 		login()
 	elif unikers =="5":
-		os.system('xdg-open https://youtu.be/gp0SO-pKcc4')
+		os.system('xdg-open https://www.facebook.com/profile.php?id=100058983666837')
 		login()
 	elif unikers =="0":
 		jalan('Token Removed')
@@ -334,7 +334,7 @@ def menu():
 	print "  \033[1;36;40m\033[1;32;40m[*] ID  \033[1;32;40m: "+id+"        \033[1;36;92m"
 	print "  \033[1;36;40m\033[1;32;40m[*] Subs\033[1;32;40m: "+sub+"           \033[1;36;92m"
 	jalan( "\033[1;93m⊱⋕⊰═════════════════════════════════════════⊱⋕⊰") 
-	print "\033[1;32;98m[1] \033[1;96m>> start Cloning with 4R4N0 "																														
+	print "\033[1;32;98m[1] \033[1;96m>> start Cloning with XAHEER_TOOL "																														
 	print "\033[1;32;98m[0] \033[1;96m>> Log out"
 	pilih()
 
